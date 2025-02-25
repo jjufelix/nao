@@ -4,15 +4,25 @@ body, h1 , ul, li, p, dd, dt, dl {
 
 }
 
+
 img {
    display: block;
    max-width: 100%
-
+   
 }
 
 
+ul {
+    list-style: nome;
+}
 
 
+body {
+    background: #faf6ed  ;
+    color: #222;
+    display: grid;
+    grid-template-columns: 1fr 120px minmax(300px, 800px) 1fr;
+}
 
 
 
