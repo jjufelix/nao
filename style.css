@@ -25,9 +25,25 @@ body {
 }
 
 
+.menu ul {
+    display: flex;
+    flex-wrap: wrap; 
+    padding: 10px;
+}
 
 
-
+.menu li a  {
+    display: block;
+    padding: 10px;
+    margin-right: 10px;
+    color: #222;
+    text-decoration: nome;
+    font-family: monospace;
+    font-weight: bold ;
+    text-transform: uppercase ;
+    font-size: 0.875rem;
+    letter-spacing: .1em;   
+}
 
 
 
