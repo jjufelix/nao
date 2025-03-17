@@ -17,7 +17,7 @@ body {
     grid-template-rows: auto auto;
     height: 125px;
     width: auto;
-    background-color: rgb(125, 221, 101)    ;
+    background-color: rgb(101, 172, 83)    ;
 
 }
 
@@ -128,7 +128,7 @@ footer {
     text-align: center;
     width: auto;
     height: auto;
-    color: rgb(255, 251, 251);
+    color: rgb(27, 27, 27);
     font-family: monospace;
     align-content: center;
 }
