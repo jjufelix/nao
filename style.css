@@ -93,7 +93,6 @@ main {
 
 .dados li {
     margin-bottom: 1rem;
-    grid-column: 2;
     font-family: helvetica, arial;
 }
 
@@ -135,8 +134,12 @@ footer {
 
 .Contato {
     display: grid;
+    font-size: 30px;
     grid-column: 1;
     margin-left: 20px;
+    justify-items: end;
+    align-items: center;
+    justify-content: end
 }
 
 .Infor {
