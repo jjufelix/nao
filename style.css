@@ -136,9 +136,8 @@ footer {
     display: grid;
     font-size: 30px;
     grid-column: 1;
-    justify-items: end;
     align-items: center;
-    justify-content: end
+    justify-content: center;
 }
 
 .Infor {
