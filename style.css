@@ -20,6 +20,16 @@ body {
     background-color: rgb(219, 219, 158);
 }
 
+.TITULO1 {
+    display: grid;
+    grid-row: 1;
+
+}
+
+.TITULO2 {
+    display: grid;    
+    grid-row: 2;
+}
 
 header {
     display: grid;
