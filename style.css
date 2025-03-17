@@ -104,7 +104,7 @@ content {
 
 footer {
     display: grid;
-    grid-row: 4;
+    grid-row: 5;
     background: #2743c4;
     text-align: center;
     width: auto;
