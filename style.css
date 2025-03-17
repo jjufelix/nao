@@ -17,12 +17,8 @@ body {
     grid-template-rows: auto auto;
     height: 125px;
     width: auto;
-<<<<<<< HEAD
     background-color: rgb(255, 171, 189);
-    
-=======
-    background-color: rgb(255, 171, 189);
->>>>>>> 4fa70616646a019238f5158f58099a1d40d68632
+
 }
 
 .TITULO1 {
