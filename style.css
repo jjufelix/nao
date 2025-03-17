@@ -17,7 +17,7 @@ body {
     grid-template-rows: auto auto;
     height: 125px;
     width: auto;
-    background-color: rgb(219, 219, 158);
+    background-color: rgb(255, 171, 189);
 }
 
 .TITULO1 {
@@ -67,7 +67,7 @@ main {
 }
 
 .button:hover {
-    color: #fffff6;
+    color: #fcabff;
   }
 
 .animais h2::before {
@@ -76,7 +76,7 @@ main {
     width: 40px;
     height: 10px;
     margin-right: 10px;
-    background: rgb(212, 255, 112);
+    background: rgb(146, 145, 238);
 }
 
 .animais p {
@@ -102,7 +102,7 @@ main {
     width: 20px;
     height: 10px;
     margin-right: 10px;
-    background: rgb(228, 226, 104);
+    background: rgb(122, 201, 253);
 }
 
 
@@ -115,7 +115,7 @@ content {
     height: auto;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #bfd6ad;
+    background-color: #c0f742;
     border-top: 20px solid #e3f580;
 }
 
@@ -123,11 +123,11 @@ footer {
     display: grid;
     grid-row: 5;
     grid-column: 1;
-    background: rgb(212, 255, 112);
+    background: rgb(228, 199, 70);
     text-align: center;
     width: auto;
     height: auto;
-    color: white;
+    color: rgb(221, 92, 92);
     font-family: monospace;
     align-content: center;
 }
