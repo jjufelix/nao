@@ -124,11 +124,11 @@ footer {
     display: grid;
     grid-row: 5;
     grid-column: 1;
-    background: rgb(66, 66, 66);
+    background: rgb(27, 27, 27);
     text-align: center;
     width: auto;
     height: auto;
-    color: rgb(27, 27, 27);
+    color: white;
     font-family: monospace;
     align-content: center;
 }
