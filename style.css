@@ -123,7 +123,7 @@ footer {
     display: grid;
     grid-row: 5;
     grid-column: 1;
-    background: #fbfbfc;
+    background: rgb(212, 255, 112);
     text-align: center;
     width: auto;
     height: auto;
