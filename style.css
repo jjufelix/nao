@@ -23,7 +23,7 @@ body {
 .TITULO1 {
     display: grid;
     grid-row: 1;
-
+    justify-items: center;
 }
 
 .TITULO2 {
