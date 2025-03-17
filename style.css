@@ -67,7 +67,7 @@ main {
 }
 
 .button:hover {
-    color: #2743c4;
+    color: #fffff6;
   }
 
 .animais h2::before {
@@ -76,7 +76,7 @@ main {
     width: 40px;
     height: 10px;
     margin-right: 10px;
-    background: rgb(39, 67, 196);
+    background: rgb(212, 255, 112);
 }
 
 .animais p {
@@ -102,7 +102,7 @@ main {
     width: 20px;
     height: 10px;
     margin-right: 10px;
-    background: rgb(39, 67, 196);
+    background: rgb(228, 226, 104);
 }
 
 
@@ -116,14 +116,14 @@ content {
     padding-left: 20px;
     padding-right: 20px;
     background-color: #bfd6ad;
-    border-top: 20px solid #2743c4;
+    border-top: 20px solid #e3f580;
 }
 
 footer {
     display: grid;
     grid-row: 5;
     grid-column: 1;
-    background: #2743c4;
+    background: #fbfbfc;
     text-align: center;
     width: auto;
     height: auto;
