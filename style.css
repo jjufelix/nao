@@ -136,7 +136,6 @@ footer {
     display: grid;
     font-size: 30px;
     grid-column: 1;
-    margin-left: 20px;
     justify-items: end;
     align-items: center;
     justify-content: end
