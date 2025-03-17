@@ -10,16 +10,6 @@ body {
     display:none;
 }
 
-#joana {
-    display: grid;
-    grid-column: 1;
-    grid-row: 1;
-    grid-template-columns: auto auto;
-    height: 125px;
-    width: auto;
-    background-color: rgb(219, 219, 158);
-}
-
 header {
     display: grid;
     grid-template-columns: 272px auto auto auto auto auto;
